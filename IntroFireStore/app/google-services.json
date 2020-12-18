@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "569804326225",
+    "project_id": "dulcet-radar-296305",
+    "storage_bucket": "dulcet-radar-296305.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569804326225:android:2d488d7058d0bf864bbf70",
+        "android_client_info": {
+          "package_name": "com.example.introfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569804326225-j4o3q9es8g8okp0vs7r8v2mmh8m51ute.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYCYK5n2s1OKwBD4iOeq3FS9QfHhig_qI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569804326225-j4o3q9es8g8okp0vs7r8v2mmh8m51ute.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

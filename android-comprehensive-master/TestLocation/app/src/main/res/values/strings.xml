@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestLocation</string>
+    <string name="action_settings">Settings</string>
+    <string name="location_text">"Latitude: %1$.4f \n Longitude: %2$.4f
+\n Timestamp: %3$tr"</string>
+    <string name="location_permission_denied">Permission Denied</string>
+    <string name="no_location">No location found!</string>
+    <string name="warning_gp">You need to install GPlay services.</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "564656302182",
+    "project_id": "selfdta",
+    "storage_bucket": "selfdta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564656302182:android:9ef8a792d8b8a6a421e5a7",
+        "android_client_info": {
+          "package_name": "com.example.self"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564656302182-o89r9v6djd9pc3dd6bavmnqmaqv8qbd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCItv2InSOxtjVn4BPrc2JPzTZD8qnLn0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564656302182-o89r9v6djd9pc3dd6bavmnqmaqv8qbd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
